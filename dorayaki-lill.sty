@@ -194,10 +194,11 @@
 \NewDocumentCommand{\lillsetup}{mmmm}{\__dorayaki_lill_setup:nnnn{#1}{#2}{#3}{#4}}
 \NewDocumentCommand{\lilldrawfold}{mm}{\__dorayaki_lill_draw_fold_line:nn{#1}{#2}}
 \NewDocumentCommand{\lillcomplete}{}{\__dorayaki_lill_complete:}
+\NewDocumentCommand{\lillputpoint}{m}{\__dorayaki_lill_put_point:n{#1}}
 \NewDocumentCommand{\lilldraw}{smmmmmm}{%
-  \__dorayaki_lill_setup:nnnn{#2}{#3}{#4}{#5}
-  \__dorayaki_lill_draw_fold_line:nn{#6}{#7}
-  \__dorayaki_lill_complete:
+  \lillsetup{#2}{#3}{#4}{#5}
+  \lilldrawfold{#6}{#7}
+  \lillcomplete
   \IfBooleanF{#1}{\__dorayaki_lill_put_reflection:}
 }
 

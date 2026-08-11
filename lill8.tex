@@ -5,14 +5,14 @@
 \begin{document}
 
 \begin{tikzpicture}
-  \lilldraw{-2}{1}{0.9}{0.7}{-1.552}{-4.392}
-  \draw (p1) node[above] {$p_1$};
+  \lilldraw*{-1.5}{1.5}{2}{-0.7}{3.614}{5.836}
+  \draw (p1) node[below right] {$p_1$};
   \draw (p2) node[above right] {$p_2$};
-  \draw (p3) node[below] {$p_3$};
+  \draw (p3) node[above] {$p_3$};
   \draw (p4) node[right] {$Q$};
-  \draw (Odash) node[right] {$O'$};
-  \draw (p4dash) node[above] {$Q'$};
-  \draw (l1top) node[left] {$L_1$};
+  \draw (Odash) node[left] {$O'$};
+  \lillputpoint{(Odash)}
+  \draw (l1bot) node[left] {$L_1$};
   \draw (l2left) node[above] {$L_2$};
 \end{tikzpicture}
   
