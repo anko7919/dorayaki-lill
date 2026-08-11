@@ -1,0 +1,6 @@
+*.aus
+*.fbd_latexmk
+*.fls
+*.log
+/build/figures/
+
