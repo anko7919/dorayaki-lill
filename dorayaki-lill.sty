@@ -8,6 +8,7 @@
   fold/.style={dashed,semithick},
   axis/.style={->,thin},
   line/.style={semithick},
+  support/.style={dotted,semithick}
 }
 
 \ExplSyntaxOn
@@ -179,6 +180,8 @@
   \coordinate (OT) at ($(foldline1)!(0, 0)!(foldline2)$);
   \coordinate (p4T) at ($(foldline1)!(p4)!(foldline2)$);
   \draw[line] (0, 0) -- (OT) -- (p4T) -- (p4);
+  \draw[support] (p2) -- (OT);
+  \draw[support] (p3) -- (p4T);
   \coordinate (Odash) at ($(0, 0)!2!(OT)$);
   \coordinate (p4dash) at ($(p4)!2!(p4T)$);
 }

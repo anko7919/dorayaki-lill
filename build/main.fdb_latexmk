@@ -1,5 +1,5 @@
 # Fdb version 4
-["lualatex"] 1786425546.5735 "main.tex" "build/main.pdf" "main" 1786425548.91227 0
+["lualatex"] 1786426322.82514 "main.tex" "build/main.pdf" "main" 1786426325.27324 0
   "/home/anko7919/.texlive2026/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-regular.luc" 1783166671.33331 127327 bb05cc850edf5447a76a9cb72263daaf ""
   "/home/anko7919/.texlive2026/texmf-var/luatex-cache/generic/names/luaotfload-names.luc.gz" 1783166633.55159 355609 e97ff575049785a55488c3461eec66c2 ""
   "/usr/local/texlive/2026/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf" 1255129361 111536 ae9d1b331000d544f47e5223081b7b54 ""
@@ -184,12 +184,12 @@
   "/usr/local/texlive/2026/texmf-dist/tex/luatex/luaotfload/luaotfload.lua" 1740687098 13566 16df94dd2de231b2bca0aaa0190941fe ""
   "/usr/local/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1786340034 5494908 3b538c7dbc623065bea22f34105bac13 ""
   "/usr/local/texlive/2026/texmf-var/web2c/luahbtex/lualatex.fmt" 1786338424 6750452 e0501c15828d566ada9659f96c2b6669 ""
-  "build/main.aux" 1786425548.70687 277 d02cc36ca561b586d36050193850953c "lualatex"
-  "dorayaki-lill.sty" 1786425503.34288 8301 4fd6538a5d05fc1b8d668929c66d5cb7 ""
+  "build/main.aux" 1786426325.07475 277 b4d31b8a80774774f3b7c02e8d1e76b9 "lualatex"
+  "dorayaki-lill.sty" 1786426313.34275 8400 519505d9940a034b1a207da1e8274179 ""
   "lill1.tex" 1786425503.33088 471 b535c269bf63d53d3358ab1749635ebf ""
   "lill2.tex" 1786425503.34288 401 cd1f78f4e99318a74792d8d2cddb398a ""
   "lill3.tex" 1786425503.34288 331 d4b4a7ffba89737866f745a48826a805 ""
-  "lill4.tex" 1786425503.34288 333 c52633ed7e75bd881922fd4b0fce1f5a ""
+  "lill4.tex" 1786425861.65481 406 a0c221ad57637e865f8355feb44521d4 ""
   "main.tex" 1786425503.34288 365 7f04b05411048db01c09a74dec136570 ""
   (generated)
   "build/main.aux"
