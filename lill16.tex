@@ -1,0 +1,21 @@
+\documentclass[tikz,border=5pt]{standalone}
+
+\usepackage{dorayaki-lill}
+
+\begin{document}
+
+\begin{tikzpicture}
+  \lilldraw{-1}{-0.8}{-1.5}{-1.8}{0.967}{2.001}
+  \draw (p1) node[below] {$p_1$};
+  \draw (p2) node[below right] {$p_2$};
+  \draw (p3) node[right] {$p_3$};
+  \draw (p4) node[right] {$Q$};
+  \draw (l1top) node[left] {$L_1$};
+  \draw (l2right) node[below] {$L_2$};
+  \draw (Odash) node[left] {$O'$};
+  \draw (p4dash) node[above] {$Q'$};
+  \draw[line] (l2right) -- (p4dash);
+\end{tikzpicture}
+  
+\end{document}
+

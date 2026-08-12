@@ -1,0 +1,20 @@
+\documentclass[tikz,border=5pt]{standalone}
+
+\usepackage{dorayaki-lill}
+
+\begin{document}
+
+\begin{tikzpicture}
+  \lilldraw*{-1.3}{1.2}{-1}{-0.7}{-0.621}{-2.900}
+  \draw (p1) node[above right] {$p_1$};
+  \draw (p2) node[right] {$p_2$};
+  \draw (p3) node[above right] {$p_3$};
+  \draw (p4) node[right] {$Q$};
+  \draw (l1top) node[left] {$L_1$};
+  \draw (l2right) node[above] {$L_2$};
+  \draw (p4dash) node[above] {$Q'$};
+  \lillputpoint{(p4dash)}
+\end{tikzpicture}
+  
+\end{document}
+
