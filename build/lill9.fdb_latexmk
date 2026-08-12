@@ -1,5 +1,5 @@
 # Fdb version 4
-["lualatex"] 1786500419.50878 "lill2.tex" "build/lill2.pdf" "lill2" 1786500421.31471 0
+["lualatex"] 1786500432.08158 "lill9.tex" "build/lill9.pdf" "lill9" 1786500433.86307 0
   "/home/anko7919/.texlive2026/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-regular.luc" 1783166671.33331 127327 bb05cc850edf5447a76a9cb72263daaf ""
   "/home/anko7919/.texlive2026/texmf-var/luatex-cache/generic/names/luaotfload-names.luc.gz" 1783166633.55159 355609 e97ff575049785a55488c3461eec66c2 ""
   "/usr/local/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmex10.tfm" 1136768653 992 662f679a0b3d2d53c1b94050fdaa3f50 ""
@@ -14,7 +14,6 @@
   "/usr/local/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmsy7.tfm" 1136768653 1120 2b3f9b25605010c69bc328bea6ac000f ""
   "/usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1248133631 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
   "/usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1248133631 32762 224316ccc9ad3ca0423a14971cfa7fc1 ""
-  "/usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb" 1248133631 32716 08e384dc442464e7285e891af9f45947 ""
   "/usr/local/texlive/2026/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1461363279 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/local/texlive/2026/texmf-dist/tex/generic/iftex/ifluatex.sty" 1572645307 492 1994775aa15b0d1289725a0b1bbc2d4c ""
   "/usr/local/texlive/2026/texmf-dist/tex/generic/iftex/iftex.sty" 1734129479 7984 7dbb9280f03c0a315425f1b4f35d43ee ""
@@ -164,11 +163,11 @@
   "/usr/local/texlive/2026/texmf-dist/tex/luatex/luaotfload/luaotfload.lua" 1740687098 13566 16df94dd2de231b2bca0aaa0190941fe ""
   "/usr/local/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1786340034 5494908 3b538c7dbc623065bea22f34105bac13 ""
   "/usr/local/texlive/2026/texmf-var/web2c/luahbtex/lualatex.fmt" 1786338424 6750452 e0501c15828d566ada9659f96c2b6669 ""
-  "build/lill2.aux" 1786500421.15644 32 3985256e7290058c681f74d7a3565a19 "lualatex"
+  "build/lill9.aux" 1786500433.69331 32 3985256e7290058c681f74d7a3565a19 "lualatex"
   "dorayaki-lill.sty" 1786457919.3818 8421 6506e57b770f262f5992cf877fd75fe5 ""
-  "lill2.tex" 1786460193.2998 514 b8eef6a611625f8607de457a704e7aa8 ""
+  "lill9.tex" 1786500406.08928 413 46ded8028eebe5af6797780a9e223431 ""
   (generated)
-  "build/lill2.aux"
-  "build/lill2.log"
-  "build/lill2.pdf"
+  "build/lill9.aux"
+  "build/lill9.log"
+  "build/lill9.pdf"
   (rewritten before read)

@@ -1,5 +1,5 @@
 # Fdb version 4
-["lualatex"] 1786426315.74185 "lill1.tex" "build/lill1.pdf" "lill1" 1786426317.49512 0
+["lualatex"] 1786500417.47655 "lill1.tex" "build/lill1.pdf" "lill1" 1786500419.44328 0
   "/home/anko7919/.texlive2026/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-regular.luc" 1783166671.33331 127327 bb05cc850edf5447a76a9cb72263daaf ""
   "/home/anko7919/.texlive2026/texmf-var/luatex-cache/generic/names/luaotfload-names.luc.gz" 1783166633.55159 355609 e97ff575049785a55488c3461eec66c2 ""
   "/usr/local/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmex10.tfm" 1136768653 992 662f679a0b3d2d53c1b94050fdaa3f50 ""
@@ -164,8 +164,8 @@
   "/usr/local/texlive/2026/texmf-dist/tex/luatex/luaotfload/luaotfload.lua" 1740687098 13566 16df94dd2de231b2bca0aaa0190941fe ""
   "/usr/local/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1786340034 5494908 3b538c7dbc623065bea22f34105bac13 ""
   "/usr/local/texlive/2026/texmf-var/web2c/luahbtex/lualatex.fmt" 1786338424 6750452 e0501c15828d566ada9659f96c2b6669 ""
-  "build/lill1.aux" 1786426317.34675 32 3985256e7290058c681f74d7a3565a19 "lualatex"
-  "dorayaki-lill.sty" 1786426313.34275 8400 519505d9940a034b1a207da1e8274179 ""
+  "build/lill1.aux" 1786500419.26198 32 3985256e7290058c681f74d7a3565a19 "lualatex"
+  "dorayaki-lill.sty" 1786457919.3818 8421 6506e57b770f262f5992cf877fd75fe5 ""
   "lill1.tex" 1786425503.33088 471 b535c269bf63d53d3358ab1749635ebf ""
   (generated)
   "build/lill1.aux"

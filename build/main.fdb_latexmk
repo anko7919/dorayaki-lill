@@ -1,5 +1,5 @@
 # Fdb version 4
-["lualatex"] 1786460251.26039 "main.tex" "build/main.pdf" "main" 1786460254.41379 0
+["lualatex"] 1786506386.37044 "main.tex" "build/main.pdf" "main" 1786506389.71323 0
   "/home/anko7919/.texlive2026/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-regular.luc" 1783166671.33331 127327 bb05cc850edf5447a76a9cb72263daaf ""
   "/home/anko7919/.texlive2026/texmf-var/luatex-cache/generic/names/luaotfload-names.luc.gz" 1783166633.55159 355609 e97ff575049785a55488c3461eec66c2 ""
   "/usr/local/texlive/2026/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf" 1255129361 111536 ae9d1b331000d544f47e5223081b7b54 ""
@@ -184,9 +184,10 @@
   "/usr/local/texlive/2026/texmf-dist/tex/luatex/luaotfload/luaotfload.lua" 1740687098 13566 16df94dd2de231b2bca0aaa0190941fe ""
   "/usr/local/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1786340034 5494908 3b538c7dbc623065bea22f34105bac13 ""
   "/usr/local/texlive/2026/texmf-var/web2c/luahbtex/lualatex.fmt" 1786338424 6750452 e0501c15828d566ada9659f96c2b6669 ""
-  "build/main.aux" 1786460254.21213 482 101af6c8a18ec90be235cd28ea9168e2 "lualatex"
+  "build/main.aux" 1786506389.50534 586 44d1c54884c3a277459d577e9e77a33d "lualatex"
   "dorayaki-lill.sty" 1786457919.3818 8421 6506e57b770f262f5992cf877fd75fe5 ""
   "lill1.tex" 1786425503.33088 471 b535c269bf63d53d3358ab1749635ebf ""
+  "lill10.tex" 1786506385.45643 416 7f0245ae08eec1c8ad68a17625a0eb9c ""
   "lill2.tex" 1786460193.2998 514 b8eef6a611625f8607de457a704e7aa8 ""
   "lill3.tex" 1786459914.65647 469 58363c408306333819fccc3856219f7e ""
   "lill4.tex" 1786460250.00423 480 73f764c2402d6c6ad60ae2b035d1799b ""
@@ -194,7 +195,8 @@
   "lill6.tex" 1786460121.53287 508 b10466d146b27499fc12f16f811857e2 ""
   "lill7.tex" 1786459984.19697 394 e5cb9e23ee5dde61bed797d23c789faf ""
   "lill8.tex" 1786460100.41166 475 546762fcf46698f26ee410c47afc0649 ""
-  "main.tex" 1786458890.43164 581 2461777e230297e1fbce296f339e8d3a ""
+  "lill9.tex" 1786500406.08928 413 46ded8028eebe5af6797780a9e223431 ""
+  "main.tex" 1786506220.8337 689 94eebb9a2b9718678a0f0356f4589c5e ""
   (generated)
   "build/main.aux"
   "build/main.log"
